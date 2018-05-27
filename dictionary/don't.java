@@ -1,0 +1,3 @@
+class don't { 
+
+}
